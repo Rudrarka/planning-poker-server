@@ -27,7 +27,7 @@ Refer to https://docs.docker.com/get-docker/ to install docker
 
 * Clone the project into local
     ```bash
-    git clone
+    git clone https://github.com/Rudrarka/planning-poker-server.git
     ```
 
 * Run the following commands to build and run the application:
